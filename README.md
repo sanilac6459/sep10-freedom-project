@@ -1,4 +1,4 @@
-# SEP10 Freedom Project: Tech in Visual Design
+# SEP10 Freedom Project: Tech in Visual Design 💻🎨
 Link: https://sanilac6459.github.io/sep10-freedom-project/
 
 Tool: HTML, CSS, and BootStrap
